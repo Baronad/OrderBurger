@@ -1,0 +1,116 @@
+html {
+    margin: 40px;
+    background-image: url(Sno.jpg);
+    background-position: center;
+}
+
+.search {
+    background-color: #2ed573;
+}
+
+.box {
+    background-color: azure;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.FindSongs {
+    background-color: azure;
+    height: 80px;
+    width: auto;
+    border-radius: 10px;
+    text-align: center;
+   /* border: 8px solid blue; */
+}
+
+.Footer {
+    height: 75px;
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    right: 40px;
+    margin-top: 10px;
+}
+
+.Search-box {
+    position: absolute;
+    background-color: azure;
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+.search-btn {
+    text-decoration: none;
+    color: #ee5253;
+    float: right;
+    width: 40x;
+    height: 40px;
+    border-radius: 50%;
+    background: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    line-height: 40px;
+    width: 240px;
+}
+
+.navigation {
+    height: 55px;
+    margin-bottom: 10px;
+}
+
+.center {
+    padding: 25px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    border-radius: 10px;
+    display: block;
+    color: teal;
+    text-align: center;
+    padding:14px 16px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #F1C40F;
+}
+
+a:active {
+    text-decoration: none;
+    color: #F1C40F;
+}
+
+.active {
+    background-color: darkcyan;
+    color: coral
+}
+
+.center {
+    padding: 25px 0;
+}

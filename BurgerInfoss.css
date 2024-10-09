@@ -1,0 +1,88 @@
+html {
+    margin: 40px;
+    padding: 0px;
+    background-image: url(Sno.jpg);
+    background-position: center;
+}
+
+body { 
+    margin: 0px;
+    padding: 0px;
+}
+
+.box {
+    background-color: azure;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.TextTC {
+    background-color: azure;
+    height: 80px;
+    width: auto;
+   /* border: 8px solid blue; */
+}
+
+.Footer {
+    height: 80px;
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    right: 40px;
+    margin-top: 10px;
+}
+
+.TermsConditions {
+    height: 310px;
+}
+
+.navigation {
+    height: 55px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    border-radius: 10px;
+    display: block;
+    color: teal;
+    text-align: center;
+    padding:14px 16px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #F1C40F;
+}
+
+a:active {
+    text-decoration: none;
+    color: #F1C40F;
+}
+
+.active {
+    background-color: darkcyan;
+    color: coral
+}
+
+.center { 
+    padding: 25px 0;
+}
+
