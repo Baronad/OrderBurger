@@ -9,6 +9,8 @@ Vecka 2:
 Idag påbörjades arbetet med hemsidan där vi använder oss av html & css, därefter skapades en branch som är viktig för att utveckla funktioner, debugga och säkert komma på fler ideer och testa.
 Det skapades en enklare version av hemsidan så att alla skulle kunna testa sin kod och se så att hemsidan fungerande. Webbsidan skapades i Visual Studio Code med hjälp av html, css och javascript.
 Vi bestämde även att alla skulle jobba separat, men ha regelbunden kontakt med varandra. På så sätt vet vi alla hur långt vi har kommit och vad som behöver fixas. 
+Webbsidan var inte responsiv så det som gjordes var att gruppmedlemmarna bytte ut pixlar i css mot % och webbsidan blev responsiv då alla skärmar har olika tum.
 
 Vecka 3:
-
+Idag påbörjades arbetet med koden för OrderBurger, det första som gjordes var att skapa en meny så man ser allting i en box så att den inte är över hela webbsidan. 
+Därefter så kunde debugging påbörjas 
