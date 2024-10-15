@@ -1,0 +1,10 @@
+OrderBurger Ind.
+
+Vecka 1:
+Idag påbörjades grupparbetet med att bestämma grupp, därefter kunde planeringen påbörjas där gruppen bestämde att en webbsida skulle krävas för att kunna se alla pushes & comits.
+Gruppen fastställde även att Visual Studio Code var utvecklingsmiljön som skulle jobbas i då det blir enklare för alla i och med att olika program har olika syntax och det skulle göra det svårare på grund av att olika miljöutvecklingssystem gör så att man ibland kan få errors.
+Vi gjorde även en github server där vi alla kunde pusha & comitta, detta är viktigt eftersom att alla ska kunna se korrigeringar på både webbsidan och i vår BurgerOrder kod.
+
+Vecka 2: 
+Idag påbörjades arbetet med hemsidan där vi använder oss av html & css, därefter skapades en branch som är viktig för att utveckla funktioner, debugga och säkert komma på fler ideer och testa.
+Det skapades en enklare version av hemsidan så att alla skulle kunna testa sin kod och se så att hemsidan fungerande. Webbsidan skapades i Visual Studio Code med hjälp av html, css och javascript.
